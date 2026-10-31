@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+.toolchain/
+**/build/
+local.properties
+*.iml
+*.keystore
+*.pyc
+**/__pycache__/
+lab/src/main/assets/runtime.zip
+runtime/source-runtime.zip
+runtime/source-runtime.zip.download
